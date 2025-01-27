@@ -1,8 +1,11 @@
+  
 # 🥐 Curent Project
 - I’m currently working on [AnimeGUI](https://github.com/Apologieze/AnimeGUI)🌸<br>
-🥖🧀 Studying in 🍁🥞
+- 🥖🧀 Studying in 🍁🥞
 
 
+<div align="center">
+  
 ## 🌐 Socials
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)![](https://img.shields.io/badge/Apologieze-20B2AA?style=for-the-badge)
 
@@ -11,3 +14,5 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apologieze&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) ![](https://widgetbite.com/stats/Apologieze)
+
+</div>
