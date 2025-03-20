@@ -1,6 +1,6 @@
   
 # 🌌 Curent Project
-- I’m currently working on [AnimeGUI](https://github.com/Apologieze/AnimeGUI)🌸<br>
+- I’m currently working on [Benri](https://github.com/Apologieze/AnimeGUI)🌸<br>
 - 🥖🥐 Studying in 🍁🥞
 
 
